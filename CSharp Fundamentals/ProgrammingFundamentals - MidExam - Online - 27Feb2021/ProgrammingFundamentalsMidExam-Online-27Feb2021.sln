@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "Problem1\Problem1.csproj", "{2ACBB374-4B6E-40C3-A34F-996AE1C35D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{2CBC4BF8-686A-4003-9D6C-C620225CF867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{3058B79A-3818-4822-AAEE-4111B97F5E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACBB374-4B6E-40C3-A34F-996AE1C35D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACBB374-4B6E-40C3-A34F-996AE1C35D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACBB374-4B6E-40C3-A34F-996AE1C35D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACBB374-4B6E-40C3-A34F-996AE1C35D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBC4BF8-686A-4003-9D6C-C620225CF867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBC4BF8-686A-4003-9D6C-C620225CF867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBC4BF8-686A-4003-9D6C-C620225CF867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBC4BF8-686A-4003-9D6C-C620225CF867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3058B79A-3818-4822-AAEE-4111B97F5E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3058B79A-3818-4822-AAEE-4111B97F5E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3058B79A-3818-4822-AAEE-4111B97F5E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3058B79A-3818-4822-AAEE-4111B97F5E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {789610A9-E662-4A45-B46A-807424A29565}
+	EndGlobalSection
+EndGlobal
