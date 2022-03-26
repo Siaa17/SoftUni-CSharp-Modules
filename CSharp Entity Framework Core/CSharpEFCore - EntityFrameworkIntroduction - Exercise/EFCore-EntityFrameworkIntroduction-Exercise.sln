@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore-EntityFrameworkIntroduction-Exercise", "EFCore-EntityFrameworkIntroduction-Exercise\EFCore-EntityFrameworkIntroduction-Exercise.csproj", "{958D6120-BD70-46F4-B69F-6EDFE047EEB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958D6120-BD70-46F4-B69F-6EDFE047EEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958D6120-BD70-46F4-B69F-6EDFE047EEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958D6120-BD70-46F4-B69F-6EDFE047EEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958D6120-BD70-46F4-B69F-6EDFE047EEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680E3E5E-ABB1-4FCB-BBCF-830BAA8B14BA}
+	EndGlobalSection
+EndGlobal
