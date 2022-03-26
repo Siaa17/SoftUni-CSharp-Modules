@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.LootBox", "01.LootBox\01.LootBox.csproj", "{A9373D25-0AD2-4D1F-A2A1-B78661F814DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Re-Volt", "02.Re-Volt\02.Re-Volt.csproj", "{8EE82663-B598-4672-B0AA-B3235A5372F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9373D25-0AD2-4D1F-A2A1-B78661F814DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9373D25-0AD2-4D1F-A2A1-B78661F814DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9373D25-0AD2-4D1F-A2A1-B78661F814DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9373D25-0AD2-4D1F-A2A1-B78661F814DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE82663-B598-4672-B0AA-B3235A5372F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE82663-B598-4672-B0AA-B3235A5372F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE82663-B598-4672-B0AA-B3235A5372F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE82663-B598-4672-B0AA-B3235A5372F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD72958A-A73E-4A94-AE8E-C3E6FADD41A6}
+	EndGlobalSection
+EndGlobal

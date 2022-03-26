@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.UniqueUsernames", "01.UniqueUsernames\01.UniqueUsernames.csproj", "{2757783B-CA87-4B0D-84CE-B6AE27725920}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SetsOfElements", "02.SetsOfElements\02.SetsOfElements.csproj", "{CE31D4E2-F646-4A6D-BC9C-BABBC01B8297}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PeriodicTable", "03.PeriodicTable\03.PeriodicTable.csproj", "{1888735D-90A4-4F55-A0B3-69D2801FFD13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.EvenTimes", "04.EvenTimes\04.EvenTimes.csproj", "{2B3D114A-8ACD-4149-B3DB-6228B7B96B95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CountSymbols", "05.CountSymbols\05.CountSymbols.csproj", "{6F2833C8-CD81-4DEB-AEF2-BDC50808C490}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{C36C4A0C-83A0-47A8-97B3-4F55F7AFABC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TheV-Logger", "07.TheV-Logger\07.TheV-Logger.csproj", "{004A3F5F-1CE5-4245-A094-A44A4DF8A60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2757783B-CA87-4B0D-84CE-B6AE27725920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2757783B-CA87-4B0D-84CE-B6AE27725920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2757783B-CA87-4B0D-84CE-B6AE27725920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2757783B-CA87-4B0D-84CE-B6AE27725920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE31D4E2-F646-4A6D-BC9C-BABBC01B8297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE31D4E2-F646-4A6D-BC9C-BABBC01B8297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE31D4E2-F646-4A6D-BC9C-BABBC01B8297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE31D4E2-F646-4A6D-BC9C-BABBC01B8297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1888735D-90A4-4F55-A0B3-69D2801FFD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1888735D-90A4-4F55-A0B3-69D2801FFD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1888735D-90A4-4F55-A0B3-69D2801FFD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1888735D-90A4-4F55-A0B3-69D2801FFD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3D114A-8ACD-4149-B3DB-6228B7B96B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3D114A-8ACD-4149-B3DB-6228B7B96B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3D114A-8ACD-4149-B3DB-6228B7B96B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3D114A-8ACD-4149-B3DB-6228B7B96B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2833C8-CD81-4DEB-AEF2-BDC50808C490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2833C8-CD81-4DEB-AEF2-BDC50808C490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2833C8-CD81-4DEB-AEF2-BDC50808C490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2833C8-CD81-4DEB-AEF2-BDC50808C490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36C4A0C-83A0-47A8-97B3-4F55F7AFABC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36C4A0C-83A0-47A8-97B3-4F55F7AFABC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36C4A0C-83A0-47A8-97B3-4F55F7AFABC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36C4A0C-83A0-47A8-97B3-4F55F7AFABC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004A3F5F-1CE5-4245-A094-A44A4DF8A60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004A3F5F-1CE5-4245-A094-A44A4DF8A60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004A3F5F-1CE5-4245-A094-A44A4DF8A60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004A3F5F-1CE5-4245-A094-A44A4DF8A60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFDB7366-6202-466D-8411-283C37381E6F}
+	EndGlobalSection
+EndGlobal
