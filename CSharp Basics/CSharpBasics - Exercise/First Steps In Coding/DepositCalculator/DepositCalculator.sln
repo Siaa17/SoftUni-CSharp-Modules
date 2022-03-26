@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{96934BC7-A6D3-4D55-B7E4-2F1EB9A6B3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96934BC7-A6D3-4D55-B7E4-2F1EB9A6B3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96934BC7-A6D3-4D55-B7E4-2F1EB9A6B3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96934BC7-A6D3-4D55-B7E4-2F1EB9A6B3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96934BC7-A6D3-4D55-B7E4-2F1EB9A6B3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8079AB-3F6D-4110-980D-A2147B787EB0}
+	EndGlobalSection
+EndGlobal
