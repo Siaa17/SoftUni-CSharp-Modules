@@ -1,2 +1,2 @@
-# softuni-csharp-modules
+# SoftUni-CSharp-Modules
 My homework assignments
